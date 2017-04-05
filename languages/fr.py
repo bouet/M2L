@@ -82,7 +82,7 @@
 'Errors': 'Erreurs',
 'export as csv file': 'exporter sous forme de fichier csv',
 'FAQ': 'FAQ',
-'First name': 'First name',
+'First name': 'Prenom',
 'Formation': 'Formation',
 'Forms and Validators': 'Formulaires et Validateurs',
 'Free Applications': 'Applications gratuites',
